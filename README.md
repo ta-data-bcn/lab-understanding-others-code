@@ -71,6 +71,7 @@ Workflow of game:
 -  for the alphabet list could have used: 
         >>> import string
         >>> list(string.ascii_uppercase)
+- for input error handeling, try not to use a while loop (to avoid infinite while loops). Rather add a if funciton and a sys.exit("Wrong input") or similar. 
 
 
 
