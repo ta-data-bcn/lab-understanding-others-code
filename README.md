@@ -25,19 +25,22 @@ This is important because you:
 
 #### 3. Draw / write the workflow for yourself and note your doubts about it.
 Workflow of refractoring:
-step1 : copy code into new file
-step2 : check for correct spacing in code and between functions
-step3 : change names of variables
+
+- step1 : copy code into new file
+- step2 : check for correct spacing in code and between functions
+- step3 : change names of variables
+
 Clear - no doubts
 
+
 Workflow of game:
-step1: import libraries needed
-step2: welcome message and defining variables
-step3: defining functions
-        print string
-        print hangman
-        play funciton
-step 4: run play 
+- step1: import libraries needed
+- step2: welcome message and defining variables
+- step3: defining functions
+        * print string
+        * print hangman
+        * play funciton
+- step 4: run play 
 
 #### 4. Look for things he/she made that you think could be useful for you.
 - descriptions added in line in the code to clarify variables
@@ -65,10 +68,10 @@ step 4: run play
 ###### Grows
 - put your funcitons into separate files and import them to the a main function where you define variables and call on the play() function
 - describe in detail you functions (use """ """)
-- could have used: 
-        import string
-        list(string.ascii_uppercase)
- for the alphabet list
+-  for the alphabet list could have used: 
+        >>> import string
+        >>> list(string.ascii_uppercase)
+
 
 
 
