@@ -14,6 +14,15 @@ IF DECRYPT:
 3. message to decrypt 
 4. image choice to be used for decrypt
 
+I have analyzed his code using the following steps:
+1. Look at the ProjectMessageEncryptionDecryption.py and understand the structure.
+2. Look at the functions.py to understand what each function does. 
+3. Define the code structure
+4. Look at the GitHub repository both for the original version and for the refactored one. 
+    https://github.com/josepforadada/lab-refactoring/commits/master [refactored]
+    https://github.com/josepforadada/Project-Week-1-Build-Your-Own-Game/commits/master [original]
+5. Write questions and answer the questions of the README.md
+6. Discussion with Josep to solve my questions and understand more about the code. 
 
 #### Questions 
 1. why are you creating a class for the functions? 
@@ -28,6 +37,7 @@ IF DECRYPT:
 - Creating a separated script for all the functions. 
 - Each function has a description that is used as a documentation and that can be accessed on Pycharm by shift+tab.
 - good naming of variables (WhatToDo). It makes easier for us to understand the code. 
+- He has applied PEP8 to improve the code.
 
 ### Comparison with the first version of the code. Do you think the improvement is significant?
 - Josep has added more descriptions of what each function does, and it can be accessed as a documention. 
