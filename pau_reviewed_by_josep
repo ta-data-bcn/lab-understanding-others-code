@@ -1,0 +1,34 @@
+Look for the repository of the partner you have been assigned to.
+
+First, understand the workflow he/she built in their improved version of their code.
+
+Defining all the functions, latter run a simple condition to call a main function that handles all the other functions
+
+
+Draw / write the workflow for yourself and note your doubts about it.
+
+ - Ask to play for playing (loop) N - to quit at the end of each game
+ - Enter to a main function
+ - Call diferent functions every time to look for a WIN result
+ - Prompt for new entry loop until WIN or Lose
+
+Look for things he/she made that you think could be useful for you.
+
+ - He already knows how to simplify all the code, but it means to recode everything
+
+
+Now go to the first version of the code and compare it with the new version. Do you think the improvement is significant?
+
+ - Due to no are to many changes, is much easier to read with jupyter
+
+
+Is the git flow useful? Does it clarify some doubts you had?
+
+ - Like me not to enough description commits
+
+
+Try the game. Do you find something that could be improved? Does something surpises you? Set some glows and grows for your partner!
+
+ - Instead of working with conditions, work with a dictonary with the possible convinations
+ - Too many variables, so difficult to read
+
