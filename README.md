@@ -1,6 +1,7 @@
 ![Ironhack logo](https://i.imgur.com/1QgrNNw.png)
 
 # Lab | Understanding others code
+This lab has been done with Onur
 
 ## Description
 Yesterday you spent some time improving your first week's code. Today we ask you to take someone else's code and understand it. 
