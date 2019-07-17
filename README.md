@@ -1,6 +1,6 @@
 ![Ironhack logo](https://i.imgur.com/1QgrNNw.png)
 
-# Lab | Understanding others code
+# Lab | Understanding others code 
 
 ## Description
 Yesterday you spent some time improving your first week's code. Today we ask you to take someone else's code and understand it. 
