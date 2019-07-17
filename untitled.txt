@@ -1,0 +1,31 @@
+LEARNINGS:
+
+Usage of sys.exit()
+Separating functions into different files could be useful for big projects
+
+NOTES: 
+
+refactoring.py
+
+Line 9 -> Elements of the list must be separated with a whitespace
+
+Line 16-22 -> Check could be done using a while loop
+
+Line 27-31 -> Check could be done using a while loop
+
+Line 36 -> Why rename player_value ?
+
+game_function.py
+
+Line 3 -> Elements of the list must be separated with a whitespace
+
+bet_function.py
+
+Line 3 -> No need to use ==True since .isnumeric() returns a boolean. Just use 
+if game_bet.isnumeric(): 
+
+dealing_of_cards.py 
+
+Line 17 -> I’m not sure why you need to create a new variable called hand2.
+
+FEEDBACK: Overall it is easy to follow. I guess separating functions into different files helped for readability of the code in comparison to the original version. I don’t see any logical mistake, however, the naming of some variables could be improved. Also, if you have PEP8 installed to your pycharm you can fix code styling mistakes automatically using the shortcut (Ctrl+Shift+Alt+L). Unfortunately, git is not used in this project, it could help to see which part of the code is modified in each commit.
