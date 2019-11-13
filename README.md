@@ -32,3 +32,5 @@ This is important because you:
 
 I met with Vlad and me and him discussed both of our codes from project one, and we were surprised by how much we learned during the two weeks, because the code for the project in the first week was very long and after refractoring, it was short and simple.
 We also discussed what can we add in case of any future modifications.
+
+It was a very interesting discussion and our feedbacks were very constructive and to the point.
