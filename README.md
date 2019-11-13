@@ -29,3 +29,6 @@ This is important because you:
 * Order the things you want to say.
 * Look for your partner and schedule some time with him/her.
 * Have a nice time!
+
+I met with Vlad and me and him discussed both of our codes from project one, and we were surprised by how much we learned during the two weeks, because the code for the project in the first week was very long and after refractoring, it was short and simple.
+We also discussed what can we add in case of any future modifications.
