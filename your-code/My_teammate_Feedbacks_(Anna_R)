@@ -1,0 +1,21 @@
+#My_teammate_Feedbacks
+With Anna Riera, we went through each other's Git & Project 1 Code
+
+#Key Learning & feedbacks
+
+1 / Over Anna's The Hangman code
+- I told Anna to refactor her game to creat functions to launch her game, instead of having plain blocks of codes of for loops & while loops without any functions
+ 	=> action  taken : code refactored with the creation of several functions summing up key steps of the game
+
+- I gave Anna feedback to implement DocStrings (Input, Output, ToDo) to each of her functions, in order to increase the readability of the game and instruct future proofreaders.
+DocStrings make the code much more easy to read, clear out Input & Output of each function, and allow future readability and improvements over one's code
+
+- Discussions with Anna over possible future improvements of her game to make a V2 :
+		- evolution of he UX/UI, with a dynamic animated Hangman after each turn 
+		- implementation of more films with a connection to online Film Database, to scale up the game and incorporating way more films than the original Text film file she created - even if it may eventually slow down the program by importing important remoted database
+		
+2 / Over my MasterMind's code
+- export all the functions created in the game to a dedicated Python function file to import to the game in order to reduce the length, complexity and error risks in the main game
+- develop a more systemic approach over the different stages of comparison between the player input and the computer input. The current version is not entirely error proof, and in some cases (i.e. the player input multiple times the same colours), the feedback from the computer at the end of the round may be confusing => need to rewrite computer's feedbacks to make them clearer and avoid confusion
+- develop over the rule of the game to improve the computer feedbacks
+- improve the UX of the game, perhaps by implementing more images, if not colour to the answers, to make it more user friendly and nice to read
