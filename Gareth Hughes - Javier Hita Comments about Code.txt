@@ -1,0 +1,15 @@
+
+Comments for Javi's Project: "Blackjack".
+1. Seperate out the print statements more so it's clearer for the player with "\n".
+2. Make it one player, make the dealer react in reaction to their cards.
+3. Asking for the ace value repeatedly. Should stop after count is above 10. 
+4. Put the main game logic into a function? 
+5. Convert the variable assigned to keep_playing from a string to a boolean (True), so that game loops with a True / False argument.
+6. Add concept of betting to the game, with virtual money. 
+
+Comments for Gareth's Project: "Hangman"
+1. Writing the relative path instead of the full path because it doesn't work on someone else pc
+2. Error handling, while loop to check users input
+3. Define a function for choosing the random word
+4. Print the number of attempts left for the player
+5. Checking if the letter occurs more than once in the word to match the number of correct letters
