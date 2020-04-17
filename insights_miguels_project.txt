@@ -1,0 +1,18 @@
+This lab was about reading other people's code, understand it and be able to improve some aspects of it.
+As Miquel's project wasn't finished, I'm going to state the changes that that I would do in 
+specific functions to improve the program.
+
+First of all I would introduce some sort of error handling in the functions that take user input.
+To do so, I would use the (try and except kind of error handling) to accept any input independently
+of its case. I would also do that if the program can understant the commant just with the three first characters,
+so that if they make a typo the program would still work. 
+The key functions where I'd do this are 'Place_troops', 'Place_troops_turn', 'Moving_troops' 
+and the soem that aren't done yet like 'Discover' or the combat phase function.
+
+On another note, It would be also nice to introduce the flatten function in order to simplify
+the nested lists in the code adn be able to access the elements easier.
+
+Other than that I was really impressed with what he managed to do at the time he did the project,
+because the code is nicely organized with the functions on top (some of the pretty complex)
+and the a code cell at the end that inicializes the whole sequence, which I think is
+the most elegant way to write code.
