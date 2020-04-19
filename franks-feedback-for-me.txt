@@ -1,0 +1,20 @@
+## Blackjack feedback
+
+- On the users input I would probably try to minimize the user generated errors
+by adding a "Try / Except" block. So if the input is not valid, you shouldn't 
+re-start the game from scratch
+
+- Same "Try/Except" block for the options when if playing or not 
+
+- Would probably minimize the input options by telling the user what to input.
+Maybe a single key or word.
+
+- Also would probably define functions for "Hit", "Stay" and a variable for "Bust"
+so when writing the if statements would be shorter. 
+
+- Also maybe would be more efficient to use "r"andom choice" to get cards directly
+from the dictionary than from the list. So you would be getting cards as keys and
+their respective values directly. <random.choice(list(dictionary(keys)))>
+
+- I would probably use more descriptive names. Instead of just "dealer" maybe
+"dealers_hand" and instead of "i", would use "card"
