@@ -8,7 +8,7 @@
 I take *Aitor Quinza's* code from Project 1 to analyze and report the present feedback. His project is about the game **Guess the number** to be played against the computer in three different levels available.
 
 ## Feedback Report
-* After having a look at the slides I jumped directly to Aitor's GitHub repo and follow his Jupyter Notebook.
+* After having a look at the slides I jumped directly into Aitor's GitHub repo and followed his Jupyter Notebook.
 * Being both the slides and the code very well structured, I got into the workflow without any struggle.
 * The error handling is done in a very good manner such that the code does not crash.
 * Some minor comments on error handling:
