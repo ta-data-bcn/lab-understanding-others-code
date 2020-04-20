@@ -1,0 +1,13 @@
+
+
+
+
+- The key to cipher is really great! Optionally you could rephrase the request for 's' as it could be misunderstood. You could say "Please choose an integer as a password to ensure that only you will be able to decipher your message! " and then "Please insert your password for decryption: "
+
+- There is a little bug, when you decipher a sentence, the spaces get lost and the string is not separated.
+
+- You could try to define a function for the user input, so that you could lead the user back to "hi" in case of a type, so he does not have to start the program over
+
+_________
+
+I think your code is very well structured and very easy to understand! Very clean, very well done!! :) 
