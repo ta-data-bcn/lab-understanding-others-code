@@ -1,0 +1,7 @@
+In general, the program is very well written.
+It is short, concise and straight to the point.
+
+The only recommendation I can do is to nest everything:
+- Every function is define at the beginning of the code.
+- All functions are executed in a single function which calls the others.
+- Important variables are define at the beginning of the code. The rest will be manage only inside its functions.
