@@ -1,0 +1,28 @@
+Blackjack Game - Pol
+
+
+Workflow:
+
+-Introduction of the Game
+-Structure of functions that build the game
+-Code that runs the game
+
+
+Ways of THinking:
+
+-Really liked the way structured the game, so you can play multiple rounds with the updates of your wallet.
+-How a tuple is assigned to the Ace
+
+
+Best Practices:
+
+-Good example of how usefull are functions
+-Interaction between user and game, really liked how it was displayed
+
+
+Ways to improve:
+
+-Try to give one order to one function, having lots of code within a function may cause the reader to get confused
+-Could have the code that actually runs the game in a seperate file 
+
+
