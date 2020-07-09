@@ -1,0 +1,1 @@
+Erwan’s code was really well structured and understandable. I really liked the fact of using “tr except” for a lot of functions, it is much more clear than creating a “while” loop. The only potential improvement that I would suggest is to add more detailed comments on what is being coded in every part.
