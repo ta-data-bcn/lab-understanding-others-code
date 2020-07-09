@@ -3,7 +3,7 @@
 # Lab | Understanding others code
 
 ## Description
-Yesterday you spent some time improving your first week's code. Today we ask you to take someone else's code and understand it. 
+Last week you spent some time improving your first week's code (lab-refectoring). Today we ask you to take someone else's code and understand it. 
 
 ## Goals
 This is important because you:
