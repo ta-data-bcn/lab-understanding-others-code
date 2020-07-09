@@ -1,0 +1,9 @@
+NOTES REGARDING PAU'S PROJECT
+
+- When calling a method from a library, not everything runs again, so it would be nice to assign the data structures into a variable in order to not modify them globally (because they would not be reset).
+
+- Along those lines, maybe the pre-processing should have been called inside of the functions so the data structures get initialised.
+
+- Otherwise, the library looks great :)
+
+- The main file could have read the input with the error handling methods we learnt (not a mistake but just another approach).
