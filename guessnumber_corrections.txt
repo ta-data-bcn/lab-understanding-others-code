@@ -1,0 +1,43 @@
+workflow:
+1. Define game rules(name, lvl) inside a function
+2. print the function
+3. While playing function
+
+Doubts on workflow:
+>>No doubts
+
+
+
+Nice things on workflow:
+>>Readme file brief and concise, nice to read and easy to understand
+>>Straight forward syntax
+
+
+Possible improvements:
+>>Add explanation in each step
+>>Fragment each part of the game for functionalities
+>>In "guesses part":
+	.Bug found - If not entering an integer the game breaks.
+	.Proposal: Add a Try-Except line.
+
+	while guesses <= 5:
+		try:
+    			player_number = int(input("Guess: "))
+    			if player_number == number:
+        			print("Congratulations! You guessed the number!")
+        			break
+    			elif player_number < number:
+        			guesses += 1
+        			print("Too low")
+    			elif player_number > number:
+        			guesses += 1
+        			print("Too high")
+    			if guesses == 5:
+        			print("Sorry, you lost the game.")
+        			break
+		except ValueError:
+			print('I want a number!')
+			<return the beginning of the function>
+
+
+>>In "While playing function" the function could be improved as:
