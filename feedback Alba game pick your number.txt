@@ -1,0 +1,6 @@
+Very clear game and very intelligent simple way of creating some complexity with the different levels!!!
+
+Got a bit confused in the step right after the levels definition. I expected to see the set up of the 'let me choose' level and it took me a while that you were setting the lists for counting the number of tries of the global game. This can be sorted just with a short comment before this step. The rest is all very well commented.
+
+Great 'error handling' for user's input. To further limit that the user enters input that won't be recognized by the game in the 'let me choose' level, you could add in the text the minimum and maximum numbers of the range that the game considers (that is: 'pick a number between -100.000 and +100.001).
+
