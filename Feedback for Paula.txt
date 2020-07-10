@@ -1,0 +1,16 @@
+Feedback on Paula's code:
+
+- Ordered, clean and clear.
+- Great use of Dictionary Comprehensions
+- Elegant avoidance of while loops while still mantaining code robustness to user input. (Bravisimo)
+- The fact that there is both a function and a list called wordlenght is a bit confusing.
+- The fact that the dictionary_player_progress is constructed in 2 steps could maybe be shortened, 
+but to be completely honest I wouldn't know how to simplify that either, so it's a good solution.
+- I think in cell 7 you could have reused the same code as inside the function wordlenght().
+Like using word_choice_dict to build player progress maybe?
+- I think with word_progress_dict you are going in the right direction.
+- In complex loops (like the one during the playing option that goes for ever word index and letter in the word_choice dict items)
+try commenting more so that the step by step is clearer.
+- The automatically setting the input to lower case so you dont have to have more conditions for handling user input is brilliant!
+- The structure of the playing function is really really good and solid.
+- The other file where the cpu chooses is perfectly clear and a great example of what to package in a module to then import.
