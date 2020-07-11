@@ -1,0 +1,25 @@
+Taking into account that the project itself was really conceptually difficult. I believe Sara did an excellent job commenting her code. You can see how she improved it from the first version to the last one in a really good way. 
+
+Everything is impeccably structures in the last version of the project. The repository is well organized and clean. 
+
+I specially think the last function where she put it altogether, called improved_decoder function is really straightforward and clean. I would love to implement this in my game. 
+
+Also, learned a lot from methods she used I didn't know from. For example. Method or, and join. 
+
+The logic of creating several dictionaries is perfectly logic. I would like to see how she could improve it so there are less dictionaries involved so the code can be a little bit more simple. 
+
+In the ultimate decoder I would try to lower case or sentence casa the string
+
+"""for i in broke_down:
+        tr_char=decoded_dict.get(i)
+        new_tr=lower(tr_char) #like this?
+        translated.append(new_tr)
+        joined_str = ("".join(translated))
+    return joined_str"""
+
+Good that you explored the option of dictionary comprehensions. Although I think it is more clear with loops. 
+
+In general, I think the logic, the code and the structure she follows is really good and she has improved it a lot from the first version to the refactoring version. Definitely gave me a lot of ideas and learnings for my own projects.
+
+The only little flaws I could see is to consider more outputs that could make the result make less "clean" such as always lowercasing the decoding result, or trying to minimize the amount of dictionaries.
+
