@@ -1,0 +1,14 @@
+Comments for Cristina's project: Hangman
+
+Overall comments:
+- Very clear code, easy to understand thanks to notations
+- Great logic when structuring the game!!
+
+Possible improvements:
+- Name variables in a way they can be better understood (e.g. "list_movie" and "list_guesses" instead of "list1" and "list2"
+
+Possible future additions to the game:
+- Add more words from database
+- Add possibility to play more rounds, and keep track of points?
+- Add drawing of hangman
+- Include limitations and error handling when asking the user for inputs (e.g.: allow only letters not already input) 
