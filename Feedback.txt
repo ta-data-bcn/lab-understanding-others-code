@@ -1,0 +1,32 @@
+
+Best Practices:
+
+- Code well explained through comments. Step by step clarifications and easy to follow.
+
+- Good display of the instructions at the beginning of the game.
+
+- Good "interface" to see where the empty boxes and the boxes filled by the user
+(as visual as a Jupyter Notebook without any library may get)
+
+- Code well structured and functional, very "Pythonic". 
+
+
+Ways of thinking/New methods:
+
+- Really well-thought the use of sets and the condition "issubset".
+
+
+
+
+
+
+
+Possible improvements:
+
+- Would bee useful to include a try/except condition when introducing the box positions.
+
+- Maximum rounds and actual round are stored as variables and updated every time, but I can't see when they are used
+throughout the game.
+
+- There is an small typo: a small difference ("!") between the variables in 'winners_list' and the assignation done at the end
+of the code for the variable "the_winner", preventing the "while" loop to finish.
